@@ -1,0 +1,19 @@
+reservation = 1
+Normal distribution params: (1.9649666666666668, 0.2942634854834845)
+Normal distribution params: (0.5181333333333333, 0.125228963635947)
+Blocked Calls: 1.9649666666666683%
+Dropped Calls: 0.5181333333333336%
+Pass: 56.4%
+Blocked Calls: 54.738383183736914%
+Dropped Calls: 99.9940429054185%
+Pass: 54.73512236647827%
+
+reservation = 0
+Normal distribution params: (0.7324333333333334, 0.14216489252507689)
+Normal distribution params: (0.9402666666666667, 0.1791173916737289)
+Blocked Calls: 0.7324333333333336%
+Dropped Calls: 0.9402666666666666%
+Pass: 63.4%
+Blocked Calls: 100.0%
+Dropped Calls: 63.061667428133106%
+Pass: 63.061667428133106%
